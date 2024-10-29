@@ -1,2 +1,2 @@
 # odin-recipes
-One two three
+the first project in the Odin Project, a part of the fundamentals section.
